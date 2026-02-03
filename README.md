@@ -67,11 +67,3 @@ EC2 instance provisioned using Terraform:
 ![EC2](./ec2terraform.png)
 
 ---
-
-## Terraform Workflow
-
-```bash
-terraform init      # Initialize Terraform
-terraform plan      # Preview the changes
-terraform apply     # Create the infrastructure
-terraform destroy   # Destroy the infrastructure
